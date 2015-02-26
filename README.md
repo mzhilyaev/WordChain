@@ -1,2 +1,1 @@
-# WordChain
-# WordChain
+# WordChain demo
